@@ -10,3 +10,4 @@
 ## Roadmap
 
 - 2024-10-03 [Proposal](docs/proposal.md)
+- 2024-11-06 [Midterm Report](docs/midterm.md)

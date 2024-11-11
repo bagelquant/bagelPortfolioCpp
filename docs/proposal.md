@@ -72,23 +72,3 @@ graph LR
 ```
 > In this version, optimizer will be a special case of strategy
 
-
-
-## Roadmap
-
-> Each sprint will last for 1 week.
-
-- sprint 1
-    - proposal and project setup
-- sprint 2
-    - dataHandler module
-    - portfolio module
-- sprint 3
-    - backtest module
-- sprint 4
-    - optimizer module
-    - report module
-- sprint 5
-    - documentation
-    - testing
-
